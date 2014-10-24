@@ -1,0 +1,6 @@
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\Complex\bin\Debug\Complex.exe.config
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\Complex\obj\Debug\Complex.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\Complex\bin\Debug\Complex.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\Complex\bin\Debug\Complex.pdb
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\Complex\obj\Debug\Complex.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\Complex\obj\Debug\Complex.pdb

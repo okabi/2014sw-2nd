@@ -1,0 +1,6 @@
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\NGramExtractor\bin\Debug\NGramExtractor.exe.config
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\NGramExtractor\obj\Debug\NGramExtractor.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\NGramExtractor\bin\Debug\NGramExtractor.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\NGramExtractor\bin\Debug\NGramExtractor.pdb
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\NGramExtractor\obj\Debug\NGramExtractor.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\NGramExtractor\obj\Debug\NGramExtractor.pdb

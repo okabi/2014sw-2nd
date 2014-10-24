@@ -1,0 +1,6 @@
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YahooMorphologicalAnalyzer\bin\Debug\YahooMorphologicalAnalyzer.exe.config
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YahooMorphologicalAnalyzer\bin\Debug\YahooMorphologicalAnalyzer.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YahooMorphologicalAnalyzer\bin\Debug\YahooMorphologicalAnalyzer.pdb
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YahooMorphologicalAnalyzer\obj\Debug\YahooMorphologicalAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YahooMorphologicalAnalyzer\obj\Debug\YahooMorphologicalAnalyzer.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YahooMorphologicalAnalyzer\obj\Debug\YahooMorphologicalAnalyzer.pdb

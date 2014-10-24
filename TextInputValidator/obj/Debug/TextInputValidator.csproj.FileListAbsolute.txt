@@ -1,0 +1,6 @@
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\TextInputValidator\bin\Debug\TextInputValidator.exe.config
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\TextInputValidator\bin\Debug\TextInputValidator.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\TextInputValidator\bin\Debug\TextInputValidator.pdb
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\TextInputValidator\obj\Debug\TextInputValidator.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\TextInputValidator\obj\Debug\TextInputValidator.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\TextInputValidator\obj\Debug\TextInputValidator.pdb

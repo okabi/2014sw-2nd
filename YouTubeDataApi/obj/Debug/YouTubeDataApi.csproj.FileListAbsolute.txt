@@ -1,0 +1,6 @@
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YouTubeDataApi\bin\Debug\YouTubeDataApi.exe.config
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YouTubeDataApi\obj\Debug\YouTubeDataApi.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YouTubeDataApi\bin\Debug\YouTubeDataApi.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YouTubeDataApi\bin\Debug\YouTubeDataApi.pdb
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YouTubeDataApi\obj\Debug\YouTubeDataApi.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\YouTubeDataApi\obj\Debug\YouTubeDataApi.pdb

@@ -1,0 +1,6 @@
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\SemanticOrientationEstimator\bin\Debug\SemanticOrientationEstimator.exe.config
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\SemanticOrientationEstimator\obj\Debug\SemanticOrientationEstimator.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\SemanticOrientationEstimator\bin\Debug\SemanticOrientationEstimator.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\SemanticOrientationEstimator\bin\Debug\SemanticOrientationEstimator.pdb
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\SemanticOrientationEstimator\obj\Debug\SemanticOrientationEstimator.exe
+C:\Users\a0120051\Documents\Visual Studio 2013\Projects\EnshuFour\SemanticOrientationEstimator\obj\Debug\SemanticOrientationEstimator.pdb

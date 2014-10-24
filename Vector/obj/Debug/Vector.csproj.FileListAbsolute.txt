@@ -1,0 +1,6 @@
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\Vector\bin\Debug\Vector.exe.config
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\Vector\bin\Debug\Vector.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\Vector\bin\Debug\Vector.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\Vector\obj\Debug\Vector.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\Vector\obj\Debug\Vector.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\Vector\obj\Debug\Vector.pdb
