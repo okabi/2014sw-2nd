@@ -21,6 +21,7 @@ namespace Vector
         {
             Elements = new double[vector.Length];
             vector.CopyTo(Elements, 0);
+            Dimension = vector.Length;
         }
 
         /// <summary>
