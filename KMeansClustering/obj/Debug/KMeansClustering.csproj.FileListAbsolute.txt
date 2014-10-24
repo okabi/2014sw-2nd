@@ -1,0 +1,8 @@
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\KMeansClustering\bin\Debug\KMeansClustering.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\KMeansClustering\bin\Debug\KMeansClustering.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\KMeansClustering\bin\Debug\Vector.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\KMeansClustering\bin\Debug\Vector.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\KMeansClustering\obj\Debug\KMeansClustering.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\KMeansClustering\obj\Debug\KMeansClustering.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\KMeansClustering\obj\Debug\KMeansClustering.pdb
