@@ -1,0 +1,11 @@
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\bin\Debug\TextSimilarity.exe.config
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\bin\Debug\TextSimilarity.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\bin\Debug\TextSimilarity.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\bin\Debug\MeCabMorphologicalAnalyzer.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\bin\Debug\LibNMeCab.dll
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\bin\Debug\MeCabMorphologicalAnalyzer.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\obj\Debug\TextSimilarity.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\obj\Debug\TextSimilarity.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\obj\Debug\TextSimilarity.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\bin\Debug\Vector.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TextSimilarity\bin\Debug\Vector.pdb
