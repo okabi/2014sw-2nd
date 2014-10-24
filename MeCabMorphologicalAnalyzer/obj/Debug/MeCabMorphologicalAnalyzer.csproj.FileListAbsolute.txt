@@ -1,0 +1,7 @@
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\MeCabMorphologicalAnalyzer\bin\Debug\MeCabMorphologicalAnalyzer.exe.config
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\MeCabMorphologicalAnalyzer\bin\Debug\MeCabMorphologicalAnalyzer.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\MeCabMorphologicalAnalyzer\bin\Debug\MeCabMorphologicalAnalyzer.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\MeCabMorphologicalAnalyzer\obj\Debug\MeCabMorphologicalAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\MeCabMorphologicalAnalyzer\bin\Debug\LibNMeCab.dll
