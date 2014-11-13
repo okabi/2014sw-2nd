@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <header>
+    <meta charset="utf-8" />
+    <title>分析結果</title>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="orientation.js"></script>
+    <script type="text/javascript" src="result.js"></script>
+    <script type="text/javascript" src="chart.js"></script>
+  </header>
+  <body>
+    <div id="default">
+      <p>
+        上のテキストボックスに記入した語でTwitterを検索し、得られたツイートの内容から評価を分析します。<br/>
+        解析にはとても時間がかかることがあります。気長にお待ちください。
+      </p>
+    </div>
+    <div id="chart" style="width:100%; height:600px; text-align:center"></div>
+    <table border="1" style="width:100%">
+      <!-- 全体のデータ -->
+      <tr>
+        <th>平均</th>
+        <td colspan="2">
+          <div id="average">
+            
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>分散(標準偏差)</th>
+        <td colspan="2">
+          <div id="variance">
+
+          </div>
+        </td>
+      </tr>
+      <!-- 肯定クラスタのデータ -->
+      <tr>
+        <th rowspan="4">肯定的なクラスタ</th>
+        <th>クラスタ数</th>
+        <td>
+          <div id="cluster_positive_count">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>平均</th>
+        <td>
+          <div id="cluster_positive_average">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>分散(標準偏差)</th>
+        <td>
+          <div id="cluster_positive_variance">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>頻出単語(TF-IDFの平均値)</th>
+        <td>
+          <div id="cluster_positive_word">
+          </div>
+        </td>
+      </tr>
+      <!-- 中立クラスタのデータ -->
+      <tr>
+        <th rowspan="4">中立的なクラスタ</th>
+        <th>クラスタ数</th>
+        <td>
+          <div id="cluster_normal_count">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>平均</th>
+        <td>
+          <div id="cluster_normal_average">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>分散(標準偏差)</th>
+        <td>
+          <div id="cluster_normal_variance">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>頻出単語(TF-IDFの平均値)</th>
+        <td>
+          <div id="cluster_normal_word">
+          </div>
+        </td>
+      </tr>
+      <!-- 否定クラスタのデータ -->
+      <tr>
+        <th rowspan="4">否定的なクラスタ</th>
+        <th>クラスタ数</th>
+        <td>
+          <div id="cluster_negative_count">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>平均</th>
+        <td>
+          <div id="cluster_negative_average">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>分散(標準偏差)</th>
+        <td>
+          <div id="cluster_negative_variance">
+
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>頻出単語(TF-IDFの平均値)</th>
+        <td>
+          <div id="cluster_negative_word">
+          </div>
+        </td>
+      </tr>
+    </table>
+    <div id="testoutput"></div>
+  </body>
+</html>

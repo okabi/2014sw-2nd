@@ -1,0 +1,13 @@
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\bin\Debug\TwitterAnalyzeEstimation.exe.config
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\obj\Debug\TwitterAnalyzeEstimation.csprojResolveAssemblyReference.cache
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\obj\Debug\TwitterAnalyzeEstimation.Properties.Resources.resources
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\obj\Debug\TwitterAnalyzeEstimation.csproj.GenerateResource.Cache
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\bin\Debug\TwitterAnalyzeEstimation.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\bin\Debug\TwitterAnalyzeEstimation.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\obj\Debug\TwitterAnalyzeEstimation.exe
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\obj\Debug\TwitterAnalyzeEstimation.pdb
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\bin\Debug\LibNMeCab.dll
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\obj\Debug\TwitterAnalyzeEstimation.FormMain.resources
+C:\Users\a0120051\documents\visual studio 2013\Projects\EnshuFour\TwitterAnalyzeEstimation\obj\Debug\TwitterAnalyzeEstimation.FormConnect.resources
